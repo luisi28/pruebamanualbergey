@@ -1,0 +1,82 @@
+[
+  {
+    "nombre": "Lactococcus lactis",
+    "morfologia": "Cocos Gram positivos en cadenas cortas",
+    "metabolismo": "Homofermentativo, produce ácido láctico",
+    "habitat": "Leche y productos lácteos fermentados",
+    "importancia": "Principal bacteria en producción de queso y mantequilla",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Lactococcus_lactis.jpg"
+  },
+  {
+    "nombre": "Streptococcus thermophilus",
+    "morfologia": "Cocos Gram positivos en cadenas",
+    "metabolismo": "Homofermentativo, termófilo",
+    "habitat": "Leche y derivados",
+    "importancia": "Bacteria clave en yogurt y quesos",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Streptococcus_thermophilus.jpg"
+  },
+  {
+    "nombre": "Lactiplantibacillus plantarum",
+    "morfologia": "Bacilos Gram positivos",
+    "metabolismo": "Homofermentativo facultativo",
+    "habitat": "Vegetales, lácteos y tracto gastrointestinal",
+    "importancia": "Probiótico y en fermentación de vegetales (chucrut, aceitunas)",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Lactobacillus_plantarum.jpg"
+  },
+  {
+    "nombre": "Lacticaseibacillus casei",
+    "morfologia": "Bacilos Gram positivos",
+    "metabolismo": "Homofermentativo",
+    "habitat": "Productos lácteos y tracto gastrointestinal",
+    "importancia": "Probiótico ampliamente utilizado en alimentos fermentados",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Lactobacillus_casei.jpg"
+  },
+  {
+    "nombre": "Lacticaseibacillus rhamnosus",
+    "morfologia": "Bacilos Gram positivos",
+    "metabolismo": "Homofermentativo",
+    "habitat": "Tracto gastrointestinal humano y productos lácteos",
+    "importancia": "Probiótico en suplementos y yogures",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/8/87/Lactobacillus_rhamnosus.jpg"
+  },
+  {
+    "nombre": "Lactobacillus delbrueckii subsp. bulgaricus",
+    "morfologia": "Bacilos Gram positivos",
+    "metabolismo": "Homofermentativo, termófilo",
+    "habitat": "Productos lácteos",
+    "importancia": "Usado en yogurt junto con Streptococcus thermophilus",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Lactobacillus_bulgaricus.jpg"
+  },
+  {
+    "nombre": "Leuconostoc mesenteroides",
+    "morfologia": "Cocos Gram positivos irregulares",
+    "metabolismo": "Heterofermentativo, produce CO₂ y etanol además de ácido láctico",
+    "habitat": "Vegetales y productos fermentados",
+    "importancia": "Iniciador en fermentaciones de chucrut y encurtidos",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Leuconostoc_mesenteroides.jpg"
+  },
+  {
+    "nombre": "Pediococcus pentosaceus",
+    "morfologia": "Cocos Gram positivos en tétradas",
+    "metabolismo": "Homofermentativo",
+    "habitat": "Encurtidos, salami, cerveza",
+    "importancia": "Usado en fermentación de carnes y vegetales",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/7/71/Pediococcus_pentosaceus.jpg"
+  },
+  {
+    "nombre": "Pediococcus acidilactici",
+    "morfologia": "Cocos Gram positivos en tétradas",
+    "metabolismo": "Homofermentativo",
+    "habitat": "Alimentos fermentados y productos cárnicos",
+    "importancia": "Usado como probiótico y en fermentación de embutidos",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Pediococcus_acidilactici.jpg"
+  },
+  {
+    "nombre": "Oenococcus oeni",
+    "morfologia": "Cocos Gram positivos en pares o cadenas cortas",
+    "metabolismo": "Heterofermentativo",
+    "habitat": "Mostos y vinos",
+    "importancia": "Responsable de la fermentación maloláctica en vinos",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Oenococcus_oeni.jpg"
+  }
+]
